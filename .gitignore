@@ -6,6 +6,7 @@
 # data folders
 /mongo
 .env
+.env.prod
 
 # Logs
 logs
